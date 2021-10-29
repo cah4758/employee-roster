@@ -1,0 +1,23 @@
+{
+  "name": "employee-roster-hw10",
+  "version": "1.0.0",
+  "description": "create a roster of employees from command line prompts",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Charles Hernandez",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "employee-roster"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
